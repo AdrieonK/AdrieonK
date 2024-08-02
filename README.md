@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bioinformatics, Data Science, Biochemistry, Mycology, and Health & Wellness
 - 🌱 I’m currently learning Bioinformatics and Data Science
 - 💞️ I’m looking to collaborate on Bioinformatics projects
-- 📫 Reach me via email: Adrieonkey@gmail.com
+- 📫 Reach me via email: LabCoatMushrooms@gmail.com
 - ⚡ Fun fact: @LabCoatMushrooms
 
 <!---
